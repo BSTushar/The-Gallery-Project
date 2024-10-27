@@ -1,9 +1,5 @@
 # The-Gallery-Project
 
-Here's a README file for your "My Gallery" project:
-
----
-
 # My Gallery
 
 A simple, responsive image gallery built with HTML and CSS, designed to display images in a card-style layout with hover effects. This project is intended to showcase a collection of images in a visually appealing and interactive manner.
